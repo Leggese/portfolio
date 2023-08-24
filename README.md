@@ -1,9 +1,11 @@
-# Electrical and Computer Engineer
+# Electrical and Computer Engineer(Computer)
 
 ### Education
-computer engineer, B.sc
+- B.sc, computer engineer,from Arba Minch university (_june 2022_)
+- certificate, system adminstration & Infrastracture , from online google (_may 2023_)
+- Certificate,solar energy from Dan energy Plc ,(_April 2023_)
 
-### Work Experience
+### Work Experience(_March 2023 - Present_)**
 computer problem troubleshooting, 
 (-software problems
 -hardware problems,)
@@ -14,4 +16,4 @@ Installation of networking &CCTV, @DanEnergy plC.
 ### Projects
 LAN network installation for offices, 
 ,arduino based projects, 
-solar sysytem
+solar sysytem.
