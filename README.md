@@ -5,11 +5,11 @@ computer engineer, B.sc
 
 ### Work Experience
 computer problem troubleshooting, 
--software problems
--hardware problems,
+(-software problems
+-hardware problems,)
 Electrical system maintenance
--Air conditioning,sockets,dividers,lighting,switches
--Electrical wire installation
+(-Air conditioning,sockets,dividers,lighting,switches
+-Electrical wire installation)
 Installation of networking &CCTV, @DanEnergy plC.
 ### Projects
 LAN network installation for offices, 
