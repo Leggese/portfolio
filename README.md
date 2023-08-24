@@ -13,5 +13,5 @@ Electrical system maintenance
 Installation of networking &CCTV, @DanEnergy plC.
 ### Projects
 LAN network installation for offices, 
-arduino based projects, 
+,arduino based projects, 
 solar sysytem
