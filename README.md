@@ -6,6 +6,7 @@
 - Certificate,solar energy from Dan energy Plc ,(_April 2023_)
 
 ### Work Experience(_March 2023 - Present_)**
+![20220304_115359](https://github.com/Leggese/portfolio/assets/143095031/53647f1c-0881-4689-9ff9-75096f1ab758)
 ** computer problem troubleshooting, 
 - software problems
 - hardware problems,
