@@ -1,5 +1,6 @@
 ![QiU-H8mx_400x400](https://github.com/Leggese/portfolio/assets/143095031/f947e324-5624-49d2-a2e0-4a8f0938dd19)
-  ###             Legesse Fentahun
+
+  ###         Legesse Fentahun
 # Electrical and Computer Engineer(Computer)
 ![Screenshot 2023-08-28 151316](https://github.com/Leggese/portfolio/assets/143095031/b6303f56-ca8b-440f-9d35-010b5877f540)
 
